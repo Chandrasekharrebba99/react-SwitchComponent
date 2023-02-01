@@ -1,0 +1,8 @@
+/* Write your CSS here */
+li {
+  list-style-type: none;
+  margin: 25px;
+}
+.eventImg {
+  width: 300px;
+}
